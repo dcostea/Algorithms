@@ -1,0 +1,7 @@
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\bin\Debug\FindDuplicateNumber.exe.config
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\bin\Debug\FindDuplicateNumber.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\bin\Debug\FindDuplicateNumber.pdb
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\obj\Debug\FindDuplicateNumber.csprojResolveAssemblyReference.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\obj\Debug\FindDuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\obj\Debug\FindDuplicateNumber.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\FindDuplicateNumber\obj\Debug\FindDuplicateNumber.pdb

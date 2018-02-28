@@ -1,0 +1,6 @@
+C:\Users\dcost\source\repos\Algorithms\Algorithms\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Users\dcost\source\repos\Algorithms\Algorithms\LeapYear\bin\Debug\LeapYear.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\LeapYear\bin\Debug\LeapYear.pdb
+C:\Users\dcost\source\repos\Algorithms\Algorithms\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\LeapYear\obj\Debug\LeapYear.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\LeapYear\obj\Debug\LeapYear.pdb

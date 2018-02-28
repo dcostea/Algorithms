@@ -41,6 +41,36 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueenBacktracking", "QueenBacktracking\QueenBacktracking.csproj", "{5B1B2E2A-5DEE-4CD9-B223-CB2AA1651380}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDABDC01-8CF0-4829-87E2-77EA772F085C}"
+	ProjectSection(SolutionItems) = preProject
+		Anagrams.html = Anagrams.html
+		BinarySearch.html = BinarySearch.html
+		BubbleSort.html = BubbleSort.html
+		Factorial.html = Factorial.html
+		Fibonacci.html = Fibonacci.html
+		HanoiTowers.html = HanoiTowers.html
+		Index.html = Index.html
+		InsertionSort.html = InsertionSort.html
+		LinearSearch.html = LinearSearch.html
+		MazeSolving.html = MazeSolving.html
+		MergeSort.html = MergeSort.html
+		MissingNumber.html = MissingNumber.html
+		NQueenProblem.html = NQueenProblem.html
+		Palindrome.html = Palindrome.html
+		PrimeNumber.html = PrimeNumber.html
+		QuickSort.html = QuickSort.html
+		ReverseArray.html = ReverseArray.html
+		SelectionSort.html = SelectionSort.html
+		Sorting.html = Sorting.html
+		SwapNumbers.html = SwapNumbers.html
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{651351E0-30D8-4AB1-A5E4-1B4E4D289595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateNumber", "FindDuplicateNumber\FindDuplicateNumber.csproj", "{67B70167-E2D4-4A70-AF18-0ADD371E741B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiTowers", "HanoiTowers\HanoiTowers.csproj", "{37D2854F-742F-446A-8D05-5B074F6D9DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +153,18 @@ Global
 		{5B1B2E2A-5DEE-4CD9-B223-CB2AA1651380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1B2E2A-5DEE-4CD9-B223-CB2AA1651380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1B2E2A-5DEE-4CD9-B223-CB2AA1651380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651351E0-30D8-4AB1-A5E4-1B4E4D289595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651351E0-30D8-4AB1-A5E4-1B4E4D289595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651351E0-30D8-4AB1-A5E4-1B4E4D289595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651351E0-30D8-4AB1-A5E4-1B4E4D289595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B70167-E2D4-4A70-AF18-0ADD371E741B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B70167-E2D4-4A70-AF18-0ADD371E741B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B70167-E2D4-4A70-AF18-0ADD371E741B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B70167-E2D4-4A70-AF18-0ADD371E741B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D2854F-742F-446A-8D05-5B074F6D9DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D2854F-742F-446A-8D05-5B074F6D9DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D2854F-742F-446A-8D05-5B074F6D9DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D2854F-742F-446A-8D05-5B074F6D9DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
