@@ -1,0 +1,7 @@
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\bin\Debug\MissingNumber.exe.config
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\bin\Debug\MissingNumber.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\bin\Debug\MissingNumber.pdb
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\obj\Debug\MissingNumber.csprojResolveAssemblyReference.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\obj\Debug\MissingNumber.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\MissingNumber\obj\Debug\MissingNumber.pdb

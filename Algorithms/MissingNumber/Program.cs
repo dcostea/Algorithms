@@ -24,9 +24,14 @@ namespace MissingNumber
                 sum += arr[i];
             }
 
-            int estimated = n * (n + 1) / 2;
+            int estimated = Sum(n);
 
             return estimated - sum;
+        }
+
+        public static int Sum(int n)
+        {
+            return n * (n + 1) / 2;
         }
     }
 }
