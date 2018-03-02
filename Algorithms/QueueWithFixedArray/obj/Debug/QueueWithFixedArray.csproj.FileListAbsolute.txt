@@ -1,0 +1,7 @@
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\bin\Debug\QueueWithFixedArray.exe.config
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\bin\Debug\QueueWithFixedArray.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\bin\Debug\QueueWithFixedArray.pdb
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\obj\Debug\QueueWithFixedArray.csprojResolveAssemblyReference.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\obj\Debug\QueueWithFixedArray.csproj.CoreCompileInputs.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\obj\Debug\QueueWithFixedArray.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithFixedArray\obj\Debug\QueueWithFixedArray.pdb

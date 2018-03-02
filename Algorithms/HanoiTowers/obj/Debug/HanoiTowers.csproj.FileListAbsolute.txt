@@ -1,0 +1,7 @@
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\bin\Debug\HanoiTowers.exe.config
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\bin\Debug\HanoiTowers.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\bin\Debug\HanoiTowers.pdb
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\obj\Debug\HanoiTowers.csproj.CoreCompileInputs.cache
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\obj\Debug\HanoiTowers.exe
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\obj\Debug\HanoiTowers.pdb
+C:\Users\dcost\source\repos\Algorithms\Algorithms\HanoiTowers\obj\Debug\HanoiTowers.csprojResolveAssemblyReference.cache
