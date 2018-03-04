@@ -1,7 +1,0 @@
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\bin\Debug\FactorialIterative.exe.config
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\bin\Debug\FactorialIterative.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\bin\Debug\FactorialIterative.pdb
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\obj\Debug\FactorialIterative.csprojResolveAssemblyReference.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\obj\Debug\FactorialIterative.csproj.CoreCompileInputs.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\obj\Debug\FactorialIterative.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FactorialIterative\obj\Debug\FactorialIterative.pdb

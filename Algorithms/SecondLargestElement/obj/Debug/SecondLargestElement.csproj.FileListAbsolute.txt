@@ -1,6 +1,0 @@
-C:\Users\dcost\source\repos\Algorithms\Algorithms\SecondLargestElement\bin\Debug\SecondLargestElement.exe.config
-C:\Users\dcost\source\repos\Algorithms\Algorithms\SecondLargestElement\bin\Debug\SecondLargestElement.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\SecondLargestElement\bin\Debug\SecondLargestElement.pdb
-C:\Users\dcost\source\repos\Algorithms\Algorithms\SecondLargestElement\obj\Debug\SecondLargestElement.csproj.CoreCompileInputs.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\SecondLargestElement\obj\Debug\SecondLargestElement.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\SecondLargestElement\obj\Debug\SecondLargestElement.pdb

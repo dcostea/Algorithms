@@ -1,7 +1,0 @@
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\bin\Debug\QueueWithCircularFixedArray.exe.config
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\bin\Debug\QueueWithCircularFixedArray.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\bin\Debug\QueueWithCircularFixedArray.pdb
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\obj\Debug\QueueWithCircularFixedArray.csproj.CoreCompileInputs.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\obj\Debug\QueueWithCircularFixedArray.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\obj\Debug\QueueWithCircularFixedArray.pdb
-C:\Users\dcost\source\repos\Algorithms\Algorithms\QueueWithCircularFixedArray\obj\Debug\QueueWithCircularFixedArray.csprojResolveAssemblyReference.cache

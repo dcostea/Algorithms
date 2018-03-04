@@ -1,7 +1,0 @@
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\bin\Debug\StackWithFixedArray.exe.config
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\bin\Debug\StackWithFixedArray.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\bin\Debug\StackWithFixedArray.pdb
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\obj\Debug\StackWithFixedArray.csprojResolveAssemblyReference.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\obj\Debug\StackWithFixedArray.csproj.CoreCompileInputs.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\obj\Debug\StackWithFixedArray.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\StackWithFixedArray\obj\Debug\StackWithFixedArray.pdb

@@ -11,9 +11,6 @@ namespace LeapYear
             const int START_YEAR = 2000;
             const int END_YEAR = 2500;
 
-
-            var currentYear = System.DateTime.Now.Year;
-
             for (int i = START_YEAR; i < END_YEAR; i++)
             {
                 if (IsLeap(i))

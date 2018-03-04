@@ -7,11 +7,14 @@ namespace HashSearch
         static void Main(string[] args)
         {
             string[] words = { "apple", "orange", "apricot", "kiwi", "cherry", "banana", "grape", "lemon", "mango", "pear", "plum" };
-            string[] hashTable = new string[125 * 7]; // maximize the size using max char position in UniCode table multiplied by largest word size
-            hashTable = Hashing(hashTable, words);
+            string[] hashWords = new string[125 * 7]; // maximize the size using max char position in UniCode table multiplied by largest word size
+            hashWords = Hashing(hashWords, words);
 
-            WriteLine(GetElement(hashTable, "apple"));
-            WriteLine(GetElement(hashTable, "apricot"));
+
+
+            WriteLine(words[2]); // get apricot in a classic way
+            WriteLine(GetElement(hashWords, "apple"));
+            WriteLine(GetElement(hashWords, "apricot"));
 
 
             ReadKey(true);

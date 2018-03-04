@@ -18,13 +18,13 @@ namespace SecondLargestElement
         {
             int first = a[0];
             int second = -1;
-            //int third = -1;
+            int third = -1;
 
             for (int i = 1; i < a.Length; i++)
             {
                 if (first < a[i])
                 {
-                    //third = second;
+                    third = second;
                     second = first;
                     first = a[i];
                 }
@@ -32,13 +32,13 @@ namespace SecondLargestElement
                 {
                     second = a[i];
                 }
-                //else if (third < a[i])
-                //{
-                //    third = a[i];
-                //}
+                else if (third < a[i])
+                {
+                    third = a[i];
+                }
             }
-            return second;
-            //return third;
+            //return second;
+            return third;
         }
     }
 }

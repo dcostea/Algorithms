@@ -1,7 +1,0 @@
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\bin\Debug\FibonacciRecursiveWithTuples.exe.config
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\bin\Debug\FibonacciRecursiveWithTuples.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\bin\Debug\FibonacciRecursiveWithTuples.pdb
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\obj\Debug\FibonacciRecursiveWithTuples.csprojResolveAssemblyReference.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\obj\Debug\FibonacciRecursiveWithTuples.csproj.CoreCompileInputs.cache
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\obj\Debug\FibonacciRecursiveWithTuples.exe
-C:\Users\dcost\source\repos\Algorithms\Algorithms\FibonacciRecursiveWithTuples\obj\Debug\FibonacciRecursiveWithTuples.pdb

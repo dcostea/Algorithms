@@ -40,20 +40,20 @@ namespace QuickSort
                 return;
             }
 
-            int num = a[start];
+            int pivot = a[start];
 
             int i = start, j = end;
 
             while (i < j)
             {
-                while (i < j && a[j] > num)
+                while (i < j && a[j] > pivot)
                 {
                     j--;
                 }
 
                 a[i] = a[j];
 
-                while (i < j && a[i] < num)
+                while (i < j && a[i] < pivot)
                 {
                     i++;
                 }
@@ -61,7 +61,7 @@ namespace QuickSort
                 a[j] = a[i];
             }
 
-            a[i] = num;
+            a[i] = pivot;
             Sort(a, start, i - 1);
             Sort(a, i + 1, end);
         }
